@@ -6,4 +6,4 @@ Scripts for statistics and plotting figures in EGC-paper.
 
 + /Table # Supplementary files
 
-+ /Scripts # General R scripts used in this study
++ /Script # General R scripts used in this study
